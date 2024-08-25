@@ -5,6 +5,10 @@ An app for listing Laravel gigs/jobs. This project is from my YouTube "[Laravel 
 ![jobby1](https://github.com/user-attachments/assets/676e80fc-26f7-4cae-b7f1-fd4050b80294)
 
 
+![jobby2](https://github.com/user-attachments/assets/3c9fb3f4-f7c6-41da-8df8-664279705456)
+
+
+
 
 ## Usage
 
