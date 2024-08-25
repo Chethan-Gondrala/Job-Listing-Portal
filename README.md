@@ -2,6 +2,8 @@
 
 An app for listing Laravel gigs/jobs. This project is from my YouTube "[Laravel From Scratch 2022](https://www.youtube.com/watch?v=MYyJ4PuL4pY)" course.
 
+![jobby1](https://github.com/user-attachments/assets/676e80fc-26f7-4cae-b7f1-fd4050b80294)
+
 
 
 ## Usage
